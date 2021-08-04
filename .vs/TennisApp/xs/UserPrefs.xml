@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{C3AA95CC-2E0B-4787-AD43-349653C5EDCF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TennisApp/Startup.cs">
+    <Files>
+      <File FileName="TennisApp/Services/WeatherCondition.cs" Line="8" Column="2" />
+      <File FileName="TennisApp/Services/WeatherForecaster.cs" />
+      <File FileName="TennisApp/Services/WeatherResult.cs" />
+      <File FileName="TennisApp/Models/HomeViewModel.cs" />
+      <File FileName="TennisApp/Views/Home/Index.cshtml" />
+      <File FileName="TennisApp/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="TennisApp/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TennisApp" expanded="True">
+            <Node name="TennisApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TennisApp FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
